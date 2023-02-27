@@ -1,7 +1,10 @@
-### Hi there 👋
+Hi there 👋
+I'm Nursen Karabulut
 
-- 🔭 I’m currently working on Cyber Security.
-- 🌱 I’m currently learning Python.
+ 
+  
+
+
 
 
 <!--
