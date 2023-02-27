@@ -1,5 +1,16 @@
-Hi there 👋
-I'm Nursen Karabulut
+                                                                  Hi, I am Nursen KARABULUT
+  ____________________________________________________________________________________________________________________________________________________________________
+                                             
+                                                          A passionate Cyber Security Analyst from Turkey      
+ 
+ - 🔭 I’m currently working on Cyber Security.
+ 
+ - 🌱 I’m currently learning Akbank Cyber Security Analyst.
+ 
+ - 💬 Ask me about Python and Kali.
+ 
+ Connect with me:
+ 
 
  
   
