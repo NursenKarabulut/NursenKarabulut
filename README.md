@@ -1,4 +1,4 @@
-                                                                  Hi, I am Nursen KARABULUT
+                                                               Hi, I am Nursen KARABULUT
   ____________________________________________________________________________________________________________________________________________________________________
                                              
                                                           A passionate Cyber Security Analyst from Turkey      
