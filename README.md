@@ -2,7 +2,7 @@
 <h2 align="center"> A passionate Cyber Security Analyst from Turkey</h2>
 
 <br/>
---- 
+ 
 
 <h2 align="center">🥇 My Skills 🥇</h2>
 
@@ -31,7 +31,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{NursenKarabulut}/count.svg" alt="NursenKarabulut :: Visitor's Count" /></p>
 
-<h4 align="center">👅 Languages Used 👅</h4>
+<h4 align="center">🏆 Languages Used 🏆</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NursenKarabulut&langs_count=10&layout=compact" alt="NursenKarabulut :: Top Langs" /></p>
 
