@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am <a href="https://github.com/NursenKarabulut" target="_blank">Nursen KARABULUT</a> </h1>
-<h2 align="center"> A passionate Cyber Security Analyst from Turkey </h2>
+<h2 align="center"> A passionate Cyber Security Analyst from Turkey</h2>
 
 <br/>
 --- 
@@ -11,18 +11,19 @@
     <tr valign="center">
       <td width="25%" align="center">
         <h3>Python</h3><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/python-3628999-3030224.png?f=avif&w=256">
+       <a href='#'> <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/python-3628999-3030224.png?f=avif&w=256"> </a>
       </td>
       <td width="25%" align="center">
         <h3>Linux</h3><br>
-       <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/linux-9-202419.png?f=avif&w=256">
+       <a href='#'> <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/linux-9-202419.png?f=avif&w=256"> </a>
       </td>
        <td width="25%" align="center">
         <h3>Java</h3><br>
-       <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/java-59-1174952.png?f=avif&w=256">
+       <a href='#'> <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/java-59-1174952.png?f=avif&w=256"> </a>
+      </td>
     </tr>
-  
-
+  </tbody>
+</table>
 
 ---
 
@@ -45,6 +46,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NursenKarabulut&theme=nightowl&hide_border=true" width=400>
 </p>
 
+<br/>
 
 ---
 
