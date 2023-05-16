@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am <a href="https://github.com/NursenKarabulut" target="_blank">Nursen KARABULUT</a> </h1>
-<h2 align="center"> A passionate Cyber Security Analyst from Turkey</h2>
+<h2 align="center"> A passionate Pentester from Turkey</h2>
 
 <br/>
  
